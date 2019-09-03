@@ -9,10 +9,11 @@ In java folder has:
   
   
 * Fragments (Package)
-                         - Cashiers
-                         - Drinks
-                         - Foods
-                   3. MainActivity
+ * Cashiers
+ * Drinks
+ * Foods
+* MainActivity
+
 ***
 In folder res-> layout:
                    -> activity_main.xml (It is the container that contain fragmentContainer(framelayout: for view the small activity like                                           activity_caheis) and nav_view(view the bottom))
