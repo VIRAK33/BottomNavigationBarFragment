@@ -9,9 +9,9 @@ In java folder has:
   
   
 * Fragments (Package)
- * Cashiers
- * Drinks
- * Foods
+  * Cashiers
+  * Drinks
+  * Foods
 * MainActivity
 
 ***
