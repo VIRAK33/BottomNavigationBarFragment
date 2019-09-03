@@ -2,8 +2,8 @@
 
 In this example we use ArrayAdpater and Fragment.
 In java folder has 1. Adapter (Package)
-                      ---- ImageAndString
-                      ---- ImageAndStringArrayAdapter
+                      * ImageAndString
+                      * ImageAndStringArrayAdapter
                    2. Fragments (Package)
                          - Cashiers
                          - Drinks
