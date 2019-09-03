@@ -1,10 +1,14 @@
 # BottomNavigationBarFragment
 
 In this example we use ArrayAdpater and Fragment.
-In java folder has 1. Adapter (Package)
-                      * ImageAndString
-                      * ImageAndStringArrayAdapter
-                   2. Fragments (Package)
+In java folder has:
+
+* Adapter (Package)
+  * ImageAndString
+  * ImageAndStringArrayAdapter
+  
+  
+* Fragments (Package)
                          - Cashiers
                          - Drinks
                          - Foods
