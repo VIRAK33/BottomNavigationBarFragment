@@ -25,6 +25,7 @@ In folder res->
   * grid_item.xml (It is the frameLayout that has image and text than the item use it and then store it in the grid                                           container like activity_cashiers.xml,activity_drinks.xml,activity_foods.xml)
                     
 ***
+![](https://raw.githubusercontent.com/VIRAK33/BottomNavigationBarFragment/master/img/activity_main.png)
 ![](https://raw.githubusercontent.com/VIRAK33/BottomNavigationBarFragment/master/img/food.png)
 ![](https://raw.githubusercontent.com/VIRAK33/BottomNavigationBarFragment/master/img/drink.png)
 
