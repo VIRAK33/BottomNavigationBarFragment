@@ -1,14 +1,14 @@
 # BottomNavigationBarFragment
 
 In this example we use ArrayAdpater and Fragment.
-In java folder has -> Adapter (Package)
-                        -> ImageAndString
-                        -> ImageAndStringArrayAdapter
-                   -> Fragments (Package)
-                         -> Cashiers
-                         -> Drinks
-                         -> Foods
-                   -> MainActivity
+In java folder has 1. Adapter (Package)
+                        - ImageAndString
+                        - ImageAndStringArrayAdapter
+                   2. Fragments (Package)
+                         - Cashiers
+                         - Drinks
+                         - Foods
+                   3. MainActivity
 ***
 In folder res-> layout:
                    -> activity_main.xml (It is the container that contain fragmentContainer(framelayout: for view the small activity like                                           activity_caheis) and nav_view(view the bottom))
